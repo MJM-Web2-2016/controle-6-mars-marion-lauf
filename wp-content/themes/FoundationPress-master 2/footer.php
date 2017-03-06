@@ -16,7 +16,14 @@
 				<?php do_action( 'foundationpress_before_footer' ); ?>
 				<?php dynamic_sidebar( 'footer-widgets' ); ?>
 				<?php do_action( 'foundationpress_after_footer' ); ?>
+
+					<ul class="menu">
+					  <li><a href="#">ENGLISH</a></li>
+					  <li><a href="#">TO & PRIVACY</a></li>
+					  <li><a href="#">HELP</a></li>
+					</ul>
 			</footer>
+
 		</div>
 
 		<?php do_action( 'foundationpress_layout_end' ); ?>

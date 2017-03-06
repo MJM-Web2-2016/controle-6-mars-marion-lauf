@@ -49,6 +49,15 @@
 				<?php endif; ?>
 			</div>
 		</nav>
+
+		<hr />
+			<center>
+				<a href="about.html" class="button">Project</a>
+				<a href="#features" class="button">All Creative Fields</a>
+				<a href="about.html" class="button">Most Appreciated</a>
+				<a href="#features" class="button">Worldwide</a>
+			</center>
+		<hr />
 	</header>
 
 	<section class="container">
